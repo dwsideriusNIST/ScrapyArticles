@@ -1,0 +1,1 @@
+This is a file that I'm using to figure out how to load data into Scikit learn. I'm not sure how to do it with a JSON file so Im trying to do it with a text file first. I would like to see how this works. 
